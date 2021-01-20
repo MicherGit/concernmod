@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "concernmod:block/concern_block" }
+  }
+}
