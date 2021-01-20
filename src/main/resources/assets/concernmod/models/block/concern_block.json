@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "concern:block/concern_block"
+    "all": "concernmod:block/concern_block"
   }
 }
