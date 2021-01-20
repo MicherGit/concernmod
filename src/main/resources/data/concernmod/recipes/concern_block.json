@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "tag": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "concernmod:concern_block",
+    "count": 1
+  }
+}
