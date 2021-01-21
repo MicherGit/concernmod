@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Concernblock Mod
+
+### Info
+
+It adds the concern emoji as a block in MC, what?
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+:concern:
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the CC0 license.
